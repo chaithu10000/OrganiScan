@@ -55,5 +55,5 @@ To get started with this project, follow the steps below:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/health-risk-scoring.git
+   git clone https://github.com/chaithu10000/health-risk-scoring.git
    cd health-risk-scoring
